@@ -4,7 +4,7 @@
 
 The code and report (along with the digest) can be found here: https://github.com/IPZ-2022 
 
-The report (and the digest) can be found in the "ligand_docking" repository. 
+The report (and the digest) can be found in the "ligand_docking" repository (https://github.com/IPZ-2022/ligand_docking/blob/main/README.md). 
 
 Authors:
 * [Jakub Józefowicz](https://github.com/kuben-joz)
