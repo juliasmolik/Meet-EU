@@ -1,6 +1,6 @@
 # Meet-EU
 
-## Warsaw Team 1 - Sorbonne Team 2
+## Warsaw Team 1 - Sorbonne Team 1
 
 The code and report (along with the digest) can be found here: https://github.com/IPZ-2022 
 
